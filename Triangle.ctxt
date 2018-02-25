@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=x1\ y1\ x2\ y2\ x3\ y3\ b
+comment0.target=Triangle(double,\ double,\ double,\ double,\ double,\ double,\ boolean)
+comment1.params=g2d
+comment1.target=void\ draw(java.awt.Graphics2D)
+comment2.params=c
+comment2.target=void\ setColor(java.awt.Color)
+comment3.params=
+comment3.target=void\ animate()
+numComments=4

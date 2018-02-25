@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=SwimmingPerson(double,\ double)
+comment1.params=g2d
+comment1.target=void\ draw(java.awt.Graphics2D)
+comment2.params=
+comment2.target=void\ setDirection()
+comment3.params=
+comment3.target=double\ getX()
+comment4.params=
+comment4.target=void\ animate()
+numComments=5

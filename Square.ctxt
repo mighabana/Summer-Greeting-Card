@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x\ y\ s\ b
+comment0.target=Square(double,\ double,\ double,\ boolean)
+comment1.params=g2d
+comment1.target=void\ draw(java.awt.Graphics2D)
+comment2.params=c
+comment2.target=void\ setColor(java.awt.Color)
+comment3.params=
+comment3.target=double\ getX()
+comment4.params=
+comment4.target=double\ getY()
+comment5.params=x\ y
+comment5.target=void\ moveXY(double,\ double)
+comment6.params=
+comment6.target=void\ animate()
+numComments=7
